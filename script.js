@@ -3,5 +3,5 @@ function changeColor(color) {
 }
 
 function changeBackground () {
-    changeColor('green');
+    changeColor(Color3.random());
 }
